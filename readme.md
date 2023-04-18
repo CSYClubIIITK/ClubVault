@@ -1,4 +1,6 @@
-# Cybersecurity Club of Indian Institute of Information Technology
+[![Logo](http://csyclub.iiitkottayam.ac.in/assets/img/CSC_Logo_trans.png)]
+# Cybersecurity Club 
+# Indian Institute of Information Technology
 
 Welcome to the Cybersecurity Club of Indian Institute of Information Technology. This is a place where we share our knowledge, experience, and passion for cybersecurity. Our club was formed on [formation date] and we aim to promote cybersecurity awareness and provide a platform for students to learn and grow in this field.
 
