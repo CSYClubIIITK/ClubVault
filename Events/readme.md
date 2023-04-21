@@ -63,7 +63,7 @@
     Past Events
 </h2>
 <section>
-    <div class="container container1">
+    <div class="container container1" style="display: flex; width:100%; justify-content: space-between;">
         <div class="content">
             <h2>Introduction to Web 3.0 and Smart Contracts</h3>
             <span class="fa fa-star checked"></span>
