@@ -41,7 +41,7 @@
     <div class="container container1">
         <div class="content">
             <img class="banner" src="Introduction to Web 3.0 and Smart Contracts/banner.jpg" alt="Web 3.0 and Smart Contracts" style="height:300px;">
-            <h2>Introduction to Web 3.0 and Smart Contracts     ⭐⭐⭐⭐☆</h3>
+            <h2>Introduction to Web 3.0 and Smart Contracts (Webinar)    ⭐⭐⭐⭐☆</h2>
             <br>
             <p>During this webinar, you will learn about the fundamentals of Web 3.0, blockchain, and smart contracts, careers in Web3 and more. Our guest speaker, Mr. Sanket Agarwal has worked with and consulted multiple Web3 startups. He has built and scaled Quillcheck, a rug pull detection tool. He has managed multiple Web3 development and security projects.  He has experience in teaching 20,000+ students around web3.0, and cybersecurity in South East Asia. Don't miss this incredible opportunity to upskill yourself and stay ahead of the curve in the ever-changing world of technology. Register now for the webinar on ‘Introduction to Web 3.0 and Smart Contracts.</p>
             <ul>
@@ -65,8 +65,7 @@
     <div class="container container1">
         <div class="content">
             <img class="banner" src="Introduction to Web 3.0 and Smart Contracts/banner.jpg" alt="Web 3.0 and Smart Contracts" style="height:300px;">
-            <h2>Introduction to Web 3.0 and Smart Contracts     ⭐⭐⭐⭐☆</h3>
-            <br>
+            <h2>Introduction to Web 3.0 and Smart Contracts (Webinar)    ⭐⭐⭐⭐☆</h2>
             <p>During this webinar, you will learn about the fundamentals of Web 3.0, blockchain, and smart contracts, careers in Web3 and more. Our guest speaker, Mr. Sanket Agarwal has worked with and consulted multiple Web3 startups. He has built and scaled Quillcheck, a rug pull detection tool. He has managed multiple Web3 development and security projects.  He has experience in teaching 20,000+ students around web3.0, and cybersecurity in South East Asia. Don't miss this incredible opportunity to upskill yourself and stay ahead of the curve in the ever-changing world of technology. Register now for the webinar on ‘Introduction to Web 3.0 and Smart Contracts.</p>
             <ul>
                 <li><a href="Introduction to Web 3.0 and Smart Contracts/resources">Resources</a></li>
