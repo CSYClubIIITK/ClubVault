@@ -1,25 +1,28 @@
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-<style>
-    section > div.container{
-        display: flex; 
-        width:100%; 
-        justify-content: space-between;
-    }
-    .checked{
-        color: orange;
-    }
-    .content{
-        max-width: 70%;
-        margin-right: 20px;
-        text-align: justify;
-    }
-    .content > h2{
-        font-weight: bold;
-    }
-    .banner{
-        border-radius: 10px;
-    }
-</style>
+<head>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <style>
+        section > div.container{
+            display: flex; 
+            width:100%; 
+            justify-content: space-between;
+        }
+        .checked{
+            color: orange;
+        }
+        .content{
+            max-width: 70%;
+            margin-right: 20px;
+            text-align: justify;
+        }
+        .content > h2{
+            font-weight: bold;
+        }
+        .banner{
+            border-radius: 10px;
+        }
+    </style>
+</head>
+<body>
 <h1 align="center">
     <a href="https://github.com/CSYClubIIITK/ClubVault">
         <img src="../CSC_Logo_trans.png" valign="middle" height="58" alt="CSY logo" />
@@ -91,3 +94,4 @@
 
 </section>
 <br>
+</body>
