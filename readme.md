@@ -1,4 +1,4 @@
-![Logo](http://csyclub.iiitkottayam.ac.in/assets/img/CSC_Logo_trans.png)
+![Logo](https://media.licdn.com/dms/image/C560BAQGR_di7sPyznQ/company-logo_200_200/0/1673539874546?e=1691020800&v=beta&t=tbysvMmkvJ3-KHEiWmcqFzu0O27pzMAX0pM8kWL0Sqs)
 # Cybersecurity Club 
 # Indian Institute of Information Technology
 
