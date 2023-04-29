@@ -2,16 +2,16 @@
 # Cybersecurity Club 
 # Indian Institute of Information Technology
 
-Welcome to the Cybersecurity Club of Indian Institute of Information Technology. This is a place where we share our knowledge, experience, and passion for cybersecurity. Our club was formed on [formation date] and we aim to promote cybersecurity awareness and provide a platform for students to learn and grow in this field.
+Welcome to the Cybersecurity Club of Indian Institute of Information Technology. This is a place where we share our knowledge, experience, and passion for cybersecurity. We aim to promote cybersecurity awareness and provide a platform for students to learn and grow in this field.
 
 ## About Us
 
-[Add a brief description about the club and its objectives]
+
 
 ## Club Activities
 
-- [List the activities or events organized by the club]
-- [Add links to any related resources or materials]
+- Capture The Flag - Adavya 2023
+- Github Repo[https://github.com/unworld11/ApoorvCTF-23-Writeups]
 
 ## Social Media Handles
 
