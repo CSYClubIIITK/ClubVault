@@ -2,11 +2,10 @@
 # Cybersecurity Club 
 # Indian Institute of Information Technology
 
-Welcome to the Cybersecurity Club of Indian Institute of Information Technology. This is a place where we share our knowledge, experience, and passion for cybersecurity. We aim to promote cybersecurity awareness and provide a platform for students to learn and grow in this field.
 
 ## About Us
 
-
+Welcome to the Cybersecurity Club of Indian Institute of Information Technology. This is a place where we share our knowledge, experience, and passion for cybersecurity. We aim to promote cybersecurity awareness and provide a platform for students to learn and grow in this field.
 
 ## Club Activities
 
