@@ -17,10 +17,6 @@ Welcome to the Cybersecurity Club of Indian Institute of Information Technology.
 - [Linkedin](https://www.linkedin.com/company/csyclub-iiitkottayam/)
 - [Instagram](https://instagram.com/csyclub_iiitkottayam?igshid=ZWIzMWE5ZmU3Zg==)
 
-## Membership
-
-Membership to our club is open to all students interested in cybersecurity. To join, please fill [this](https://accounts.google.com/v3/signin/confirmidentifier?dsh=S-502729423:1682795151328926&authuser=1&continue=https://docs.google.com/forms/u/1/d/e/1FAIpQLSdbgaam8ly9Lbgp7OOmNUjUMJsgwVSQcn1I7Y-PD--deNh6OQ/viewform?usp%3Dsend_form&followup=https://docs.google.com/forms/u/1/d/e/1FAIpQLSdbgaam8ly9Lbgp7OOmNUjUMJsgwVSQcn1I7Y-PD--deNh6OQ/viewform?usp%3Dsend_form&ifkv=Af_xneHCIJGmc13jGyRkmLFNUgP0rH-TwHz86vgc9LXRJRepZYb7F1ru5Wb2ez6K_eyhBuhp0SPVdQ&ltmpl=forms&osid=1&passive=1209600&service=wise&flowName=GlifWebSignIn&flowEntry=ServiceLogin) form.
-
 ## Contact Us
 
 If you have any questions, feedback, or suggestions, please feel free to reach out to us on our social media handles.
