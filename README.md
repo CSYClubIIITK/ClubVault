@@ -1,6 +1,12 @@
-![Logo](https://media.licdn.com/dms/image/C560BAQGR_di7sPyznQ/company-logo_200_200/0/1673539874546?e=1691020800&v=beta&t=tbysvMmkvJ3-KHEiWmcqFzu0O27pzMAX0pM8kWL0Sqs)
-# Cybersecurity Club 
-# Indian Institute of Information Technology
+<h1 align="center">
+    <a href="https://github.com/CSYClubIIITK/ClubVault">
+        <img src="Logo.png" valign="middle" height="58" alt="CSY logo" />
+    </a>
+    <span valign="middle">
+        Cyber Security Club
+    </span>
+</h1>
+### Indian Institute of Information Technology Kottayam
 
 
 ## About Us
