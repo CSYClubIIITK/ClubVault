@@ -20,6 +20,6 @@
     <img src="https://github.com/DPRIYATHAM/ClubVault/blob/main/Events/Introduction%20to%20Cyber%20Security/akhilesh.jpg" float="left" height="150" alt="akhilesh" />
     <img src="https://github.com/DPRIYATHAM/ClubVault/blob/main/Events/Introduction%20to%20Cyber%20Security/divyesh.jpg" float="left" height="150" alt="divyesh" />
             
-<h2>Participants:</h2>
+<h2>Participants: 70+</h2>
             <img src="https://github.com/DPRIYATHAM/ClubVault/blob/main/Events/Introduction%20to%20Cyber%20Security/participants1.jpg" float="left" height="200" alt="p1" />
             <img src="https://github.com/DPRIYATHAM/ClubVault/blob/main/Events/Introduction%20to%20Cyber%20Security/participants2.jpg" float="left" height="200" alt="p2" />
