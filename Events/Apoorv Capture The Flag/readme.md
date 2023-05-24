@@ -7,59 +7,28 @@
     </span>
 </h1>
 
-<h3 align="center">Securing the digital world, One byte at a time</h3>
-
-<p align="center">
-    <a href="https://github.com/CSYClubIIITK/ClubVault/commits/master">
-        <img src="https://img.shields.io/github/last-commit/CSYClubIIITK/ClubVault.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub last commit">
-    </a>
-    <a href="https://github.com/CSYClubIIITK/ClubVault/issues">
-        <img src="https://img.shields.io/github/issues/CSYClubIIITK/ClubVault.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub issues">
-    </a>
-    <a href="https://github.com/CSYClubIIITK/ClubVault/pulls">
-        <img src="https://img.shields.io/github/issues-pr-raw/CSYClubIIITK/ClubVault.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub pull requests">
-    </a>
-</p>
-
----
-
-<h4 align="center">
-  <a href="../../readme.md/#About">About</a> •
-  <a href="../">Events</a> 
-</h4>
-
----
-<br>
-
 # Event
 
 <section>
     <div class="container container1">
         <div class="content">
             <img class="banner" src="banner.jpg" alt="Web 3.0 and Smart Contracts" style="height:300px;">
-            <h2>Capture The Flag (Contest)    ⭐⭐⭐⭐☆</h2>
-            <p><pre><center> Date: 6-8 April, 2023               Venue: IIIT Campus</center></pre></p>
+            <h2>Capture The Flag (Contest) </h2>
+            <p><pre><center>Date: 6-8 April, 2023<br>Venue: Online (CTFd Platform)</center></pre></p>
             <br>
-            <p>We are thrilled to announce that, Cyber Security Club IIIT Kottayam is hosting its first CTF for the Techno Cultural Fest of IIIT Kottayam , Apoorv IIIT Kottayam. 
-            
-Are you ready to put your skills to the test and compete in a thrilling game of strategy, teamwork, and cunning? Then join us for our upcoming Capture The Flag 🚩 event! The competition won't just be limited to the challenges – players will need to work together and strategize to outsmart their opponents and claim victory.
-
-So gather your team, practice your skills, and get ready for a day of high-stakes competition and unforgettable memories. We'll see you on the battlefield!
-</p>
-            <ul>
-                <li><a href="resources/">Resources</a></li>
-            </ul>
+            <p>
+                We are thrilled to announce that, Cyber Security Club IIIT Kottayam is hosting its first CTF for the Techno Cultural Fest of IIIT Kottayam , Apoorv IIIT Kottayam.
+                Are you ready to put your skills to the test and compete in a thrilling game of strategy, teamwork, and cunning? Then join us for our upcoming Capture The Flag 🚩 event! The competition won't just be limited to the challenges – players will need to work together and strategize to outsmart their opponents and claim victory.<br>
+                So gather your team, practice your skills, and get ready for a day of high-stakes competition and unforgettable memories. We'll see you on the battlefield!<br>
+            </p>
         </div>
     </div>
     
->     Hey Everybody! Feedback 1"
->                                   -Person 1
+Join the discord [Server](https://discord.com/invite/m8qrYCfY)
 
->     Hey Everybody! Feedback 2"
->                                   -Person 2
-
->     Hey Everybody! Feedback 3"
->                                   -Person 3
-
+#### Cheeckout Challenges, writeups: [CTF](https://github.com/CSYClubIIITK/ApoorvCTF-23-Writeups)
 </section>
 </body>
+
+### Stats
+![Solve count](https://user-images.githubusercontent.com/129326094/233840236-c84949bf-309c-424b-ba58-a0f65e042bad.png)
