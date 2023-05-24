@@ -14,6 +14,7 @@
             <img class="banner" src="banner.jpg" alt="Web 3.0 and Smart Contracts" style="height:300px;">
             <br>
             <h2>About the Event</h2>
+            <p><pre><center> Date: 25 January, 2023               Venue: IIITK Campus</center></pre></p>
             <p>Attention all tech-savvy students!<br>Are you ready to dive into the thrilling world of cyber security and learn how to safeguard your digital assets?<br> Then come join us in CAB201 at 6 pm for an introduction to the field that will blow your mind!<br> Don't miss out on this opportunity to sharpen your skills and stay one step ahead of the hackers. See you there!</p>
             
  <h2>Speakers:</h2>
