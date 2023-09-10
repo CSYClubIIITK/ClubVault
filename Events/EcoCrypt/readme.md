@@ -21,3 +21,7 @@
  <h2>Speaker: Darisi Priyatham</h2>
 
  <h2>Participants: 50+</h2>
+ 
+### Resources
+
+[Session Presentation](https://docs.google.com/presentation/d/1YcLEElZYttVZh66PrR0Wl1SXgEz33AYxGam8KlUIIkI/edit?usp=sharing)
