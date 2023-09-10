@@ -16,8 +16,7 @@ Welcome to the Cybersecurity Club of Indian Institute of Information Technology.
 
 ## Club Activities
 
-- Capture The Flag - Apoorv 2023
-- [Github Repo](https://github.com/unworld11/ApoorvCTF-23-Writeups)
+- Capture The Flag - Apoorv 2023 [Github Repo](https://github.com/unworld11/ApoorvCTF-23-Writeups)
 
 ## Social Media Handles
 
