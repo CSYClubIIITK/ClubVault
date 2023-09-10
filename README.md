@@ -17,6 +17,10 @@ Welcome to the Cybersecurity Club of Indian Institute of Information Technology.
 ## Club Activities
 
 - Capture The Flag - Apoorv 2023 [Github Repo](https://github.com/unworld11/ApoorvCTF-23-Writeups)
+- Introduction to Cyber Security - [Link](https://github.com/DPRIYATHAM/ClubVault/tree/main/Events/Introduction%20to%20Cyber%20Security)
+- Introduction to Web 3.0 and Smart Contracts - [Link](https://github.com/DPRIYATHAM/ClubVault/tree/main/Events/Introduction%20to%20Web%203.0%20and%20Smart%20Contracts)
+- Reimagining The Future of Drones - [Link](https://github.com/DPRIYATHAM/ClubVault/tree/main/Events/Reimagining%20the%20future%20of%20drones)
+- Advanced Cryptography Digital-Forensics - [Github Repo](https://github.com/CSYClubIIITK/Advanced-Cryptography-Digital-Forensics)
 
 ## Social Media Handles
 
