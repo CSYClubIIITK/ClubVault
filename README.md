@@ -27,6 +27,7 @@ Welcome to the Cybersecurity Club of Indian Institute of Information Technology.
 
 - [Linkedin](https://www.linkedin.com/company/csyclub-iiitkottayam/)
 - [Instagram](https://instagram.com/csyclub_iiitkottayam?igshid=ZWIzMWE5ZmU3Zg==)
+- [Discord](https://discord.gg/ZbqsQRrdtx)
 
 ## Contact Us
 
