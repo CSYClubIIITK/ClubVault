@@ -19,6 +19,7 @@
 
             
  <h2>Speakers:</h2>
+ <h3>Akilesh, Divyesh</h3>
     <img src="https://github.com/DPRIYATHAM/ClubVault/blob/main/Events/Introduction%20to%20Cyber%20Security/akhilesh.jpg" float="left" height="150" alt="akhilesh" />
     <img src="https://github.com/DPRIYATHAM/ClubVault/blob/main/Events/Introduction%20to%20Cyber%20Security/divyesh.jpg" float="left" height="150" alt="divyesh" />
             
