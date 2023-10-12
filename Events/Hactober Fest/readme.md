@@ -40,4 +40,6 @@ We’re calling everyone to participate in this one-of-its-kind event and grab t
 ### Resources:
 
 [Session Presentation](CSY_hactober.pptx)
+<br>
+
 [Hactoberfest Resources](https://csyclubiiitk.notion.site/csyclubiiitk/Hacktoberfest-Resources-444c8f7a210841b9ae993d8aab47c33e)
