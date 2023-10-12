@@ -24,4 +24,4 @@
  
 ### Resources
 
-[Session Presentation](https://docs.google.com/presentation/d/1YcLEElZYttVZh66PrR0Wl1SXgEz33AYxGam8KlUIIkI/edit?usp=sharing)
+[Session Presentation](eco-crypt.pptx)

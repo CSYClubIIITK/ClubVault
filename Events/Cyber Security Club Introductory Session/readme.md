@@ -42,19 +42,19 @@ See ya there!</p>
             
  <h2>Hon'ble Guests:</h2>
     <h3>Dr. Panchami V. (HoD)</h3>
-    <img src="panchami_mam.jpg" float="left" height="150" alt="vedanta" />
+    <img src="panchami_mam.JPG" float="left" height="150" alt="vedanta" />
     <h3>Dr. Lavanya Settipalli (Mentor) </h3>
-    <img src="lavanya_mam.jpg" float="left" height="150" alt="vedanta" />
+    <img src="lavanya_mam.JPG" float="left" height="150" alt="vedanta" />
 
 <h2>Speakers:</h2>
     <h3>Gaurav Jain & Shivani</h3>
-    <img src="gaurav.jpg" float="left" height="150" alt="vedanta" />
-    <img src="shivani.jpg" float="left" height="150" alt="vedanta" />
+    <img src="gaurav.JPG" float="left" height="150" alt="vedanta" />
+    <img src="shivani.JPG" float="left" height="150" alt="vedanta" />
             
 <h2>Participants: 200+</h2>
-            <img src="pic1.jpg" float="left" height="200" alt="p1" />
-            <img src="pic2.jpg" float="left" height="200" alt="p2" />
+            <img src="pic1.JPG" float="left" height="200" alt="p1" />
+            <img src="pic2.JPG" float="left" height="200" alt="p2" />
 
 ### Resources:
 
-[Session Presentation](https://github.com/DPRIYATHAM/ClubVault/blob/main/Events/Cyber%20Security%20Club%20Introductory%20Session/CSYClubIntro.pptx)
+[Session Presentation](CSYClubIntro.pptx)

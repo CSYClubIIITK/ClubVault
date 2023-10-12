@@ -39,5 +39,5 @@ We’re calling everyone to participate in this one-of-its-kind event and grab t
 
 ### Resources:
 
-[Session Presentation](https://github.com/DPRIYATHAM/ClubVault/blob/main/Events/Hactober%20Fest/CSY%20HACKTOBER-%20I.pptx)
+[Session Presentation](CSY_hactober.pptx)
 [Hactoberfest Resources](https://csyclubiiitk.notion.site/csyclubiiitk/Hacktoberfest-Resources-444c8f7a210841b9ae993d8aab47c33e)
