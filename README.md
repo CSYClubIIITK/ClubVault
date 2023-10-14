@@ -16,14 +16,14 @@ Welcome to the Cybersecurity Club of Indian Institute of Information Technology.
 
 ## Club Activities
 
-- Capture The Flag - Apoorv 2023 [Github Repo](https://github.com/unworld11/ApoorvCTF-23-Writeups)
-- Introduction to Cyber Security - [Link](https://github.com/DPRIYATHAM/ClubVault/tree/main/Events/Introduction%20to%20Cyber%20Security)
-- Introduction to Web 3.0 and Smart Contracts - [Link](https://github.com/DPRIYATHAM/ClubVault/tree/main/Events/Introduction%20to%20Web%203.0%20and%20Smart%20Contracts)
-- Reimagining The Future of Drones - [Link](https://github.com/DPRIYATHAM/ClubVault/tree/main/Events/Reimagining%20the%20future%20of%20drones)
-- Open Source Cyber Security Event - EcoCrypt - [Link](https://github.com/DPRIYATHAM/ClubVault/tree/main/Events/EcoCrypt)
+- Capture The Flag - Apoorv 2023 [Github Repo](https://github.com/CSYClubIIITK/ClubVault/tree/main/Events/Apoorv%20Capture%20The%20Flag)
+- Introduction to Cyber Security - [Link](https://github.com/CSYClubIIITK/ClubVault/tree/main/Events/Introduction%20to%20Cyber%20Security)
+- Introduction to Web 3.0 and Smart Contracts - [Link](https://github.com/CSYClubIIITK/ClubVault/tree/main/Events/Introduction%20to%20Web%203.0%20and%20Smart%20Contracts)
+- Reimagining The Future of Drones - [Link](https://github.com/CSYClubIIITK/ClubVault/tree/main/Events/Reimagining%20the%20future%20of%20drones)
+- Open Source Cyber Security Event - EcoCrypt - [Link](https://github.com/CSYClubIIITK/ClubVault/tree/main/Events/EcoCrypt)
 - Advanced Cryptography Digital-Forensics - [Github Repo](https://github.com/CSYClubIIITK/Advanced-Cryptography-Digital-Forensics)
-- Cyber Security Club Introductory Session - [Files](https://github.com/sarthakg043/ClubVault/tree/main/Events/Cyber%20Security%20Club%20Introductory%20Session)
-- Hactoberfest 2023 - [Files](https://github.com/sarthakg043/ClubVault/tree/main/Events/Hactober%20Fest)
+- Cyber Security Club Introductory Session - [Files](https://github.com/CSYClubIIITK/ClubVault/tree/main/Events/Cyber%20Security%20Club%20Introductory%20Session)
+- Hactoberfest 2023 - [Files](https://github.com/CSYClubIIITK/ClubVault/tree/main/Events/Hactober%20Fest)
 
 ## Social Media Handles
 
