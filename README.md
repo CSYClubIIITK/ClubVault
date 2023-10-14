@@ -24,6 +24,7 @@ Welcome to the Cybersecurity Club of Indian Institute of Information Technology.
 - Advanced Cryptography Digital-Forensics - [Github Repo](https://github.com/CSYClubIIITK/Advanced-Cryptography-Digital-Forensics)
 - Cyber Security Club Introductory Session - [Link](https://github.com/CSYClubIIITK/ClubVault/tree/main/Events/Cyber%20Security%20Club%20Introductory%20Session)
 - Hactoberfest 2023 Intro Session - [Link](https://github.com/CSYClubIIITK/ClubVault/tree/main/Events/Hactober%20Fest)
+- Git and Github Decoded- [Link](https://github.com/CSYClubIIITK/ClubVault/tree/main/Events/Git%20and%20Github%20Decoded)
 
 ## Social Media Handles
 
