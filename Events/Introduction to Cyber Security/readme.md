@@ -1,6 +1,6 @@
 <h1 align="center">
     <a href="https://github.com/CSYClubIIITK/ClubVault">
-        <img src="https://github.com/DPRIYATHAM/ClubVault/blob/main/Logo.png" valign="middle" height="58" alt="CSY logo" />
+        <img src="../../Logo.png" valign="middle" height="58" alt="CSY logo" />
     </a>
     <span valign="middle">
         Cyber Security Club
@@ -20,13 +20,13 @@
             
  <h2>Speakers:</h2>
  <h3>Akilesh, Divyesh</h3>
-    <img src="https://github.com/DPRIYATHAM/ClubVault/blob/main/Events/Introduction%20to%20Cyber%20Security/akhilesh.jpg" float="left" height="150" alt="akhilesh" />
-    <img src="https://github.com/DPRIYATHAM/ClubVault/blob/main/Events/Introduction%20to%20Cyber%20Security/divyesh.jpg" float="left" height="150" alt="divyesh" />
+    <img src="akhilesh.jpg" float="left" height="150" alt="akhilesh" />
+    <img src="divyesh.jpg" float="left" height="150" alt="divyesh" />
             
 <h2>Participants: 70+</h2>
-            <img src="https://github.com/DPRIYATHAM/ClubVault/blob/main/Events/Introduction%20to%20Cyber%20Security/participants1.jpg" float="left" height="200" alt="p1" />
-            <img src="https://github.com/DPRIYATHAM/ClubVault/blob/main/Events/Introduction%20to%20Cyber%20Security/participants2.jpg" float="left" height="200" alt="p2" />
+            <img src="participants1.jpg" float="left" height="200" alt="p1" />
+            <img src="participants2.jpg" float="left" height="200" alt="p2" />
 
 ### Resources:
 
-[Session Presentation](https://github.com/DPRIYATHAM/ClubVault/blob/main/Events/Introduction%20to%20Cyber%20Security/Cyber%20Threats%20and%20Networking.pdf)
+[Session Presentation](Cyber_Threats_and_Networking.pdf)
