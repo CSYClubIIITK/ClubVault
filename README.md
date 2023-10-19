@@ -23,8 +23,8 @@ Welcome to the Cybersecurity Club of Indian Institute of Information Technology.
 - Open Source Cyber Security Event - EcoCrypt - [Link](https://github.com/CSYClubIIITK/ClubVault/tree/main/Events/EcoCrypt)
 - Advanced Cryptography Digital-Forensics - [Github Repo](https://github.com/CSYClubIIITK/Advanced-Cryptography-Digital-Forensics)
 - Cyber Security Club Introductory Session - [Link](https://github.com/CSYClubIIITK/ClubVault/tree/main/Events/Cyber%20Security%20Club%20Introductory%20Session)
-- Hactoberfest 2023 Intro Session - [Link](https://github.com/CSYClubIIITK/ClubVault/tree/main/Events/Hactober%20Fest)
-- Git and Github Decoded- [Link](https://github.com/CSYClubIIITK/ClubVault/tree/main/Events/Git%20and%20Github%20Decoded)
+- Hacktoberfest 2023 Intro Session - [Link](https://github.com/CSYClubIIITK/ClubVault/tree/main/Events/Hactoberfest'23%20Intro%20Session)
+- Hacktoberfest 2023 Git and Github Decoded- [Link](https://github.com/CSYClubIIITK/ClubVault/tree/main/Events/Hactoberfest'23%20Git%20and%20Github%20Decoded)
 
 ## Social Media Handles
 
