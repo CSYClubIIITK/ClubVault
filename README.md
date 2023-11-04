@@ -25,6 +25,7 @@ Welcome to the Cybersecurity Club of Indian Institute of Information Technology.
 - Cyber Security Club Introductory Session - [Link](https://github.com/CSYClubIIITK/ClubVault/tree/main/Events/Cyber%20Security%20Club%20Introductory%20Session)
 - Hacktoberfest 2023 Intro Session - [Link](https://github.com/CSYClubIIITK/ClubVault/tree/main/Events/Hacktoberfest'23%20Intro%20Session)
 - Hacktoberfest 2023 Git and Github Decoded- [Link](https://github.com/CSYClubIIITK/ClubVault/tree/main/Events/Hacktoberfest'23%20Git%20and%20Github%20Decoded)
+- Hacktoberfest 2023 Hands On: Live Open Source Contribution- [Link](https://github.com/CSYClubIIITK/ClubVault/tree/main/Events/Hacktoberfest'23%20Hands%20On%20Live%20Open%20Source%20Contribution)
 
 ## Social Media Handles
 
