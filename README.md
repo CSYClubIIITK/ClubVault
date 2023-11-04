@@ -16,7 +16,7 @@ Welcome to the Cybersecurity Club of Indian Institute of Information Technology.
 
 ## Club Activities
 
-- Capture The Flag - Apoorv 2023 [Github Repo](https://github.com/CSYClubIIITK/ClubVault/tree/main/Events/Apoorv%20Capture%20The%20Flag)
+- Capture The Flag - Apoorv 2023 [Link](https://github.com/CSYClubIIITK/ClubVault/tree/main/Events/Apoorv%20Capture%20The%20Flag'23)
 - Introduction to Cyber Security - [Link](https://github.com/CSYClubIIITK/ClubVault/tree/main/Events/Introduction%20to%20Cyber%20Security)
 - Introduction to Web 3.0 and Smart Contracts - [Link](https://github.com/CSYClubIIITK/ClubVault/tree/main/Events/Introduction%20to%20Web%203.0%20and%20Smart%20Contracts)
 - Reimagining The Future of Drones - [Link](https://github.com/CSYClubIIITK/ClubVault/tree/main/Events/Reimagining%20the%20future%20of%20drones)
@@ -26,6 +26,7 @@ Welcome to the Cybersecurity Club of Indian Institute of Information Technology.
 - Hacktoberfest 2023 Intro Session - [Link](https://github.com/CSYClubIIITK/ClubVault/tree/main/Events/Hacktoberfest'23%20Intro%20Session)
 - Hacktoberfest 2023 Git and Github Decoded- [Link](https://github.com/CSYClubIIITK/ClubVault/tree/main/Events/Hacktoberfest'23%20Git%20and%20Github%20Decoded)
 - Hacktoberfest 2023 Hands On: Live Open Source Contribution- [Link](https://github.com/CSYClubIIITK/ClubVault/tree/main/Events/Hacktoberfest'23%20Hands%20On%20Live%20Open%20Source%20Contribution)
+- Capture The Flag - Apoorv 2024 [Announcement](https://github.com/CSYClubIIITK/ClubVault/tree/main/Events/Apoorv%20Capture%20The%20Flag'24)
 
 ## Social Media Handles
 
