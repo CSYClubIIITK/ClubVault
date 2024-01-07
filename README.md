@@ -28,11 +28,20 @@ Welcome to the Cybersecurity Club of Indian Institute of Information Technology.
 - Hacktoberfest 2023 Hands On: Live Open Source Contribution- [Link](https://github.com/CSYClubIIITK/ClubVault/tree/main/Events/Hacktoberfest'23%20Hands%20On%20Live%20Open%20Source%20Contribution)
 - Capture The Flag - Apoorv 2024 [Announcement](https://github.com/CSYClubIIITK/ClubVault/tree/main/Events/Apoorv%20Capture%20The%20Flag'24)
 
+- LinkedIn Premium by [Aspire for Her](https://www.linkedin.com/posts/csyclub-iiitkottayam_iiitkottayam-cybersecurityclub-aspireforher-activity-7147090435385999360-feKj?utm_source=share&utm_medium=member_android)
+
+- Informative weekly series on [Instagram](https://github.com/CSYClubIIITK/ClubVault/tree/main/Events/Weekly%20Series)
+
+- Cyber Week - [Link](https://github.com/CSYClubIIITK/ClubVault/tree/main/Events/Cyber%20Week)
+
 ## Social Media Handles
 
 - [Linkedin](https://www.linkedin.com/company/csyclub-iiitkottayam/)
 - [Instagram](https://instagram.com/csyclub_iiitkottayam?igshid=ZWIzMWE5ZmU3Zg==)
 - [Discord](https://discord.gg/ZbqsQRrdtx)
+- [Linktree](https://linktr.ee/csyclub_iiitk)
+- [Whatsapp Community](https://chat.whatsapp.com/DXZ0WkgqWYXEYj5jtVaa8h)
+- [Youtube](https://www.youtube.com/@CyberSecurityClub-IIITK)
 
 ## Contact Us
 
