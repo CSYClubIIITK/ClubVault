@@ -38,6 +38,7 @@ Welcome to the Cybersecurity Club of Indian Institute of Information Technology.
     3. ⁠[Exploitation tools](Events/Cyber%20Week/exploitation-tools)
     4. ⁠[Breaking the Websites for Fun](Events/Cyber%20Week/breaking-the-websites-for-fun)
     5. ⁠[ZCrypt Capture the Flag](Events/Cyber%20Week/capture-the-flag)
+    6. Security from a Fintech Perspective
 
 
 ## Collaborations
@@ -50,6 +51,7 @@ Welcome to the Cybersecurity Club of Indian Institute of Information Technology.
 - [⁠Aspire for Her](https://www.linkedin.com/posts/csyclub-iiitkottayam_iiitkottayam-cybersecurityclub-aspireforher-activity-7147090435385999360-feKj?utm_source=share&utm_medium=member_desktop)
 - [⁠Zcrypt](https://ctf.zcrypt.cloud)
 - [⁠IEEE FCRIT](https://www.linkedin.com/company/ieee-fcrit/?originalSubdomain=in)
+- [Hireinn](https://www.linkedin.com/company/hireinncoin/)
 
 
 ## Social Media Handles
