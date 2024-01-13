@@ -32,7 +32,25 @@ Welcome to the Cybersecurity Club of Indian Institute of Information Technology.
 
 - Informative weekly series on [Instagram](https://github.com/CSYClubIIITK/ClubVault/tree/main/Events/Weekly%20Series)
 
-- Cyber Week - [Link](https://github.com/CSYClubIIITK/ClubVault/tree/main/Events/Cyber%20Week)
+- Cyber Week
+    1. [OS-INT](Events/Cyber%20Week/os-int)
+    2. [Networks & NMAP](Events/Cyber%20Week/networks-and-nmap)
+    3. ⁠[Exploitation tools](Events/Cyber%20Week/exploitation-tools)
+    4. ⁠[Breaking the Websites for Fun](Events/Cyber%20Week/breaking-the-websites-for-fun)
+    5. ⁠[ZCrypt Capture the Flag](Events/Cyber%20Week/capture-the-flag)
+
+
+## Collaborations
+
+- [Craccon'24](https://www.linkedin.com/posts/csyclub-iiitkottayam_cybersecurity-craccon2024-iiitk-activity-7145813534449254400-W5o2?utm_source=share&utm_medium=member_desktop)
+- [⁠IWCON'24](https://www.linkedin.com/posts/csyclub-iiitkottayam_iwcon23-iwcon-communitypartner-activity-7140961881959170048-TqoV?utm_source=share&utm_medium=member_desktop)
+- [⁠Devcom NSUT](https://devcomm.international/)
+- [⁠MSIT Delhi - Hacker's Hideout](https://www.linkedin.com/company/hackershideoutx/)
+
+- [⁠Aspire for Her](https://www.linkedin.com/posts/csyclub-iiitkottayam_iiitkottayam-cybersecurityclub-aspireforher-activity-7147090435385999360-feKj?utm_source=share&utm_medium=member_desktop)
+- [⁠Zcrypt](https://ctf.zcrypt.cloud)
+- [⁠IEEE FCRIT](https://www.linkedin.com/company/ieee-fcrit/?originalSubdomain=in)
+
 
 ## Social Media Handles
 
@@ -42,6 +60,8 @@ Welcome to the Cybersecurity Club of Indian Institute of Information Technology.
 - [Linktree](https://linktr.ee/csyclub_iiitk)
 - [Whatsapp Community](https://chat.whatsapp.com/DXZ0WkgqWYXEYj5jtVaa8h)
 - [Youtube](https://www.youtube.com/@CyberSecurityClub-IIITK)
+
+
 
 ## Contact Us
 
