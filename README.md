@@ -45,8 +45,7 @@ Welcome to the Cybersecurity Club of Indian Institute of Information Technology.
 - [Craccon'24](https://www.linkedin.com/posts/csyclub-iiitkottayam_cybersecurity-craccon2024-iiitk-activity-7145813534449254400-W5o2?utm_source=share&utm_medium=member_desktop)
 - [⁠IWCON'24](https://www.linkedin.com/posts/csyclub-iiitkottayam_iwcon23-iwcon-communitypartner-activity-7140961881959170048-TqoV?utm_source=share&utm_medium=member_desktop)
 - [⁠Devcom NSUT](https://devcomm.international/)
-- [⁠MSIT Delhi - Hacker's Hideout](https://www.linkedin.com/company/hackershideoutx/) 
-<img src="hideout.jpeg" style="height:50px; border-radius: 50px" />
+- [⁠MSIT Delhi - Hacker's Hideout](https://www.linkedin.com/company/hackershideoutx/)
 
 - [⁠Aspire for Her](https://www.linkedin.com/posts/csyclub-iiitkottayam_iiitkottayam-cybersecurityclub-aspireforher-activity-7147090435385999360-feKj?utm_source=share&utm_medium=member_desktop)
 - [⁠Zcrypt](https://ctf.zcrypt.cloud)
