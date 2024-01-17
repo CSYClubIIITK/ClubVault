@@ -9,7 +9,6 @@
 
 ### Indian Institute of Information Technology Kottayam
 
-
 ## About Us
 
 Welcome to the Cybersecurity Club of Indian Institute of Information Technology. This is a place where we share our knowledge, experience, and passion for cybersecurity. We aim to promote cybersecurity awareness and provide a platform for students to learn and grow in this field.
@@ -32,13 +31,13 @@ Welcome to the Cybersecurity Club of Indian Institute of Information Technology.
 
 - Informative weekly series on [Instagram](https://github.com/CSYClubIIITK/ClubVault/tree/main/Events/Weekly%20Series)
 
-- Cyber Week
+- Cyber Week Jan'23
     1. [OS-INT](Events/Cyber%20Week/os-int)
     2. [Networks & NMAP](Events/Cyber%20Week/networks-and-nmap)
     3. ⁠[Exploitation tools](Events/Cyber%20Week/exploitation-tools)
     4. ⁠[Breaking the Websites for Fun](Events/Cyber%20Week/breaking-the-websites-for-fun)
     5. ⁠[ZCrypt Capture the Flag](Events/Cyber%20Week/capture-the-flag)
-    6. Security from a Fintech Perspective
+    6. [Security from a Fintech Perspective]()
 
 
 ## Collaborations
