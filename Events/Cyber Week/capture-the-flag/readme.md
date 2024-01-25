@@ -22,6 +22,10 @@
  <h3>Gaurav</h3>
     <img src="../../Cyber Security Club Introductory Session/gaurav.JPG" float="left" height="150" alt="Gaurav" />
 
+<h2>Participants: 20+</h2>
+    <img src="pic1.jpeg" float="left" height="200" alt="p1" />
+    <img src="pic2.jpeg" float="left" height="200" alt="p2" />
+
 ### Resources:
 
 [Session Presentation]()
