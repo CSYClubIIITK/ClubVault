@@ -36,21 +36,21 @@ Welcome to the Cybersecurity Club of Indian Institute of Information Technology.
     2. [Networks & NMAP](Events/Cyber%20Week/networks-and-nmap)
     3. ⁠[Exploitation tools](Events/Cyber%20Week/exploitation-tools)
     4. ⁠[Breaking the Websites for Fun](Events/Cyber%20Week/breaking-the-websites-for-fun)
-    5. ⁠[ZCrypt Capture the Flag](Events/Cyber%20Week/capture-the-flag)
+    5. ⁠[Capture the Flag](Events/Cyber%20Week/capture-the-flag)
     6. [Security from a Fintech Perspective]()
 
+- ⁠[ZCrypt](Events/Zcrypt)
 
 ## Collaborations
 
-- [Craccon'24](https://www.linkedin.com/posts/csyclub-iiitkottayam_cybersecurity-craccon2024-iiitk-activity-7145813534449254400-W5o2?utm_source=share&utm_medium=member_desktop)
-- [⁠IWCON'24](https://www.linkedin.com/posts/csyclub-iiitkottayam_iwcon23-iwcon-communitypartner-activity-7140961881959170048-TqoV?utm_source=share&utm_medium=member_desktop)
-- [⁠Devcom NSUT](https://devcomm.international/)
-- [⁠MSIT Delhi - Hacker's Hideout](https://www.linkedin.com/company/hackershideoutx/)
-
-- [⁠Aspire for Her](https://www.linkedin.com/posts/csyclub-iiitkottayam_iiitkottayam-cybersecurityclub-aspireforher-activity-7147090435385999360-feKj?utm_source=share&utm_medium=member_desktop)
-- [⁠Zcrypt](https://ctf.zcrypt.cloud)
-- [⁠IEEE FCRIT](https://www.linkedin.com/company/ieee-fcrit/?originalSubdomain=in)
-- [Hireinn](https://www.linkedin.com/company/hireinncoin/)
+<a href="https://www.linkedin.com/posts/csyclub-iiitkottayam_cybersecurity-craccon2024-iiitk-activity-7145813534449254400-W5o2?utm_source=share&utm_medium=member_desktop"><img style="border-radius: 20px" src="https://media.licdn.com/dms/image/D5622AQEXt6s8GtRy1A/feedshare-shrink_800/0/1703694707989?e=1710374400&v=beta&t=32WWSjaLEFGmR86fDHxKmVhJaHOxPkuoVuwfPMP1eoE" alt="Cracoon" width="100px"></a> 
+<a href="https://www.linkedin.com/posts/csyclub-iiitkottayam_iwcon23-iwcon-communitypartner-activity-7140961881959170048-TqoV?utm_source=share&utm_medium=member_desktop"><img style="border-radius: 20px" src="https://media.licdn.com/dms/image/D560BAQEKuZOcPnrZzA/company-logo_200_200/0/1683831356312/infosec_writeups_logo?e=1715212800&v=beta&t=YyQdJ7mO9t4h6YbT4iHfEfUM4Vh21gUNB6cdHJplzoU" alt="IWCON" width="100px"></a> 
+<a href="https://devcomm.international/"><img style="border-radius: 20px" src="https://devcomm.international/static/media/DevcommLogo.219fdf70c675c94ce9ba.png?w=20" alt="Devcomm NSUT" width="100px"></a> 
+<a href="https://www.linkedin.com/company/hackershideoutx/"><img style="border-radius: 20px" src="./logos/hideout.jpeg" alt="Hacker's Hideout" width="100px"></a>
+<a href="https://www.linkedin.com/posts/csyclub-iiitkottayam_iiitkottayam-cybersecurityclub-aspireforher-activity-7147090435385999360-feKj?utm_source=share&utm_medium=member_desktop"><img style="border-radius: 20px" src="https://aspireforher.com/wp-content/uploads/2021/08/Aspire-For-Her-logo-3.png" alt="Aspire for Her" width="100px"></a>
+<a href="https://www.zcrypt.cloud/"><img style="border-radius: 20px" src="https://www.zcrypt.cloud/images-event/logo.svg" alt="Zcrypt" width="100px"></a>
+<a href="https://www.linkedin.com/company/ieee-fcrit/?originalSubdomain=in"><img style="border-radius: 20px" src="https://media.licdn.com/dms/image/D4D0BAQE9qwkT4RNtMA/company-logo_200_200/0/1702558416271?e=1715212800&v=beta&t=6gr2D6GlRCodGlgVNrJj2Sk-nzDO_jJ5DXoVesY4AGQ" alt="IEEE FCRIT" width="100px"></a>
+<a href="https://www.linkedin.com/company/hireinncoin/about/"><img style="border-radius: 20px" src="https://media.licdn.com/dms/image/D4D0BAQGUWfycaOWMKQ/company-logo_200_200/0/1699002981775?e=1715212800&v=beta&t=C-z33XTM1NdeuxAczNtCDnMsslSoDJDOGoSqQpZAPd8" alt="Hireinn" width="100px"></a>
 
 
 ## Social Media Handles
@@ -69,3 +69,11 @@ Welcome to the Cybersecurity Club of Indian Institute of Information Technology.
 If you have any questions, feedback, or suggestions, please feel free to reach out to us on our social media handles.
 
 We look forward to seeing you in our club and working together to enhance cybersecurity knowledge and skills.
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[hackers-hideout]: /logos/hideout.jpeg
+[hackers-hideout-url]: https://www.linkedin.com/company/hackershideoutx/
+
+[devcom-nsut]: https://devcomm.international/static/media/DevcommLogo.219fdf70c675c94ce9ba.png?w=20
+[devcom-nsut-url]: https://devcomm.international/
