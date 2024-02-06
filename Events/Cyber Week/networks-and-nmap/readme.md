@@ -15,13 +15,22 @@
             <br>
             <h2>About the Event</h2>
             <p><pre><center> Date: 09 January, 2024               Venue: IIITK Campus</center></pre></p>
+            <h2>Description:</h2>
+            <p>Join us on Day 2 of Cyber Week for an enlightening session, where our speaker Darisi Priyatham will guide you through the intricate world of networks and Nmap. 
 
-            
+Explore the depths of cybersecurity knowledge and gain insights that will empower your understanding of these crucial aspects.
+
+The session on Networks and Nmap headed by our speaker Darisi Priyatham was fun and informative! 🌐
+
+A hands-on demo was given to the participants too. 👩🏼‍💻👨🏼‍💻
+Stay tuned for more such sessions throughout the week🌟
+</p>
+
  <h2>Speakers:</h2>
  <h3>Darisi Priyatham</h3>
     <img src="0Y4A1186.JPG" float="left" height="150" alt="Darisi Priyatham" />
 
-<h2>Participants: 30+</h2>
+<h2>Participants: 50+</h2>
     <img src="pic1.jpeg" float="left" height="200" alt="p1" />
     <img src="pic2.jpeg" float="left" height="200" alt="p2" />
     

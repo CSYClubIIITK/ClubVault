@@ -15,8 +15,14 @@
             <br>
             <h2>About the Event</h2>
             <p><pre><center> Date: 11 January, 2024               Venue: IIITK Campus</center></pre></p>
+            <h2>Description:</h2>
+            <p>Day 4 of CYBER WEEK saw our participants explore the intriguing theme of "breaking websites for fun." 🔐
 
-            
+Unveiling the risks associated with phishing 🎣, this session aimed to promote awareness and responsible online behavior. 👤💻
+
+As we inch closer to the end of CYBER WEEK, stay tuned for another fun session!✨
+</p>
+
  <h2>Speaker:</h2>
  <h3>Gaurav</h3>
     <img src="../../Cyber Security Club Introductory Session/gaurav.JPG" float="left" height="150" alt="Gaurav" />
