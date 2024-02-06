@@ -54,6 +54,18 @@ Welcome to the Cybersecurity Club of Indian Institute of Information Technology.
 <a href="https://www.linkedin.com/company/opseclio/?originalSubdomain=in"><img style="border-radius: 20px" src="https://media.licdn.com/dms/image/D4D0BAQGJ278mEQyZgg/company-logo_200_200/0/1697142789189?e=1715212800&v=beta&t=Ej5pYokmznnjX_0XLVXRcqsWaJCXisSmo6AhpKx9YwI" alt="OpenSeclio" width="100px"></a>
 </div>
 
+<table style="border-radius: 20px; border: none">
+    <tr>
+        <td><a href="https://www.linkedin.com/posts/csyclub-iiitkottayam_cybersecurity-craccon2024-iiitk-activity-7145813534449254400-W5o2?utm_source=share&utm_medium=member_desktop" style="display:flex;flex-direction: column;justify-content: center;align-items:center"><img style="border-radius: 20px" src="https://media.licdn.com/dms/image/D5622AQEXt6s8GtRy1A/feedshare-shrink_800/0/1703694707989?e=1710374400&v=beta&t=32WWSjaLEFGmR86fDHxKmVhJaHOxPkuoVuwfPMP1eoE" alt="Cracoon" width="100px"></a></td>
+        <td><a href="https://www.linkedin.com/posts/csyclub-iiitkottayam_iwcon23-iwcon-communitypartner-activity-7140961881959170048-TqoV?utm_source=share&utm_medium=member_desktop" style="display:flex;flex-direction: column;justify-content: center;align-items:center"><img style="border-radius: 20px" src="https://media.licdn.com/dms/image/D560BAQEKuZOcPnrZzA/company-logo_200_200/0/1683831356312/infosec_writeups_logo?e=1715212800&v=beta&t=YyQdJ7mO9t4h6YbT4iHfEfUM4Vh21gUNB6cdHJplzoU" alt="IWCON" width="100px"></a>
+        </td>
+    </tr>
+    <tr>
+        <td><center>Craccon'23</center><td>
+        <td><center>IWCON</center><td>
+    </tr>
+</table>
+
 ## Social Media Handles
 
 - [Linkedin](https://www.linkedin.com/company/csyclub-iiitkottayam/)
