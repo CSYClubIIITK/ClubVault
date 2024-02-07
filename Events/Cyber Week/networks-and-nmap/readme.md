@@ -21,7 +21,7 @@
  <h3>Darisi Priyatham</h3>
     <img src="0Y4A1186.JPG" float="left" height="150" alt="Darisi Priyatham" />
 
-<h2>Participants: 30+</h2>
+<h2>Participants: 100+</h2>
     <img src="pic1.jpeg" float="left" height="200" alt="p1" />
     <img src="pic2.jpeg" float="left" height="200" alt="p2" />
     
