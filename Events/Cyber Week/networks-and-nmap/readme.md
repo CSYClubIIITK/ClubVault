@@ -30,10 +30,10 @@ Stay tuned for more such sessions throughout the week🌟
  <h3>Darisi Priyatham</h3>
     <img src="0Y4A1186.JPG" float="left" height="150" alt="Darisi Priyatham" />
 
-<h2>Participants: 50+</h2>
+<h2>Participants: 80+</h2>
     <img src="pic1.jpeg" float="left" height="200" alt="p1" />
     <img src="pic2.jpeg" float="left" height="200" alt="p2" />
     
 ### Resources:
 
-[Session Presentation]()
+[Session Presentation](https://docs.google.com/presentation/d/1tg6Ld1OKXBkM3pzKNaBvVRgw7qSOzxG7gACruoX4SBY/edit?usp=sharing)

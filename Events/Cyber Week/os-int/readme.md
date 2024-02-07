@@ -27,10 +27,10 @@ Stay tuned for more!
     <img src="../purandhar.jpeg" float="left" height="150" alt="Purandhar" />
     <img src="../ansh.jpeg" float="left" height="150" alt="Ansh" />
 
-<h2>Participants: 40+</h2>
+<h2>Participants: 80+</h2>
     <img src="pic1.jpeg" float="left" height="200" alt="p1" />
     <img src="pic2.jpeg" float="left" height="200" alt="p2" />
 
 ### Resources:
 
-[Session Presentation]()
+[Session Presentation](https://docs.google.com/presentation/d/1evvvABUXM8ebZ8AJu6eGgivZ49UloMELF0tQMNDBxI0/edit?usp=sharing)

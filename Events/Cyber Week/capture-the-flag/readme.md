@@ -32,4 +32,4 @@
 
 ### Resources:
 
-[Session Presentation]()
+[Session Presentation](https://docs.google.com/presentation/d/1a9yJdK-ApbEgnCOeDmW-BlH-ALGfbO83gzdwlpRcCmY/edit?usp=sharing)

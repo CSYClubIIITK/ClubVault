@@ -38,8 +38,7 @@ Welcome to the Cybersecurity Club of Indian Institute of Information Technology.
     4. ⁠[Breaking the Websites for Fun](Events/Cyber%20Week/breaking-the-websites-for-fun)
     5. ⁠[Capture the Flag](Events/Cyber%20Week/capture-the-flag)
     6. [Security from a Fintech Perspective](Events/Cyber%20Week/security-from-a-fintech-perspective)
-
-- ⁠[ZCrypt](Events/Zcrypt) - CTF
+    7. ⁠[ZCrypt - CTF](Events/Cyber%20Week/Zcrypt)
 
 ## Collaborations 
 <table style="border-radius: 20px; border: none">

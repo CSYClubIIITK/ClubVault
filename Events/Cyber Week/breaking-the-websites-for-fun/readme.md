@@ -27,11 +27,11 @@ As we inch closer to the end of CYBER WEEK, stay tuned for another fun session!â
  <h3>Gaurav</h3>
     <img src="../../Cyber Security Club Introductory Session/gaurav.JPG" float="left" height="150" alt="Gaurav" />
 
-<h2>Participants: 30+</h2>
+<h2>Participants: 50+</h2>
     <img src="pic1.jpeg" float="left" height="200" alt="p1" />
     <img src="pic2.jpeg" float="left" height="200" alt="p2" />
             
 
 ### Resources:
 
-[Session Presentation]()
+[Session Presentation](https://docs.google.com/presentation/d/1MPbzbWQxWUYUOVhLm3jgCM6WX16EXWEXxboBsL1VvHg/edit?usp=sharing)
