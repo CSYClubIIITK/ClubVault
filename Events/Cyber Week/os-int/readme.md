@@ -15,17 +15,21 @@
             <br>
             <h2>About the Event</h2>
             <p><pre><center> Date: 08 January, 2024               Venue: IIITK Campus</center></pre></p>
+            <h2>Description:</h2>
+            <p>Day 1 of CYBER WEEK was an amazing success with our speakers Purandhar and Ansh diving deep into the mesmerising world of OS-INT. 
+            The session ended with a surprise announcement about Cyber Night! Episodes of the infamous series “Mr. Robot” will be streamed every night of the week. 
+            Stay tuned for more!
+            </p>
 
-            
  <h2>Speakers:</h2>
  <h3>Purandhar & Ansh</h3>
     <img src="../purandhar.jpeg" float="left" height="150" alt="Purandhar" />
     <img src="../ansh.jpeg" float="left" height="150" alt="Ansh" />
 
-<h2>Participants: 40+</h2>
+<h2>Participants: 80+</h2>
     <img src="pic1.jpeg" float="left" height="200" alt="p1" />
     <img src="pic2.jpeg" float="left" height="200" alt="p2" />
 
 ### Resources:
 
-[Session Presentation]()
+[Session Presentation](https://docs.google.com/presentation/d/1evvvABUXM8ebZ8AJu6eGgivZ49UloMELF0tQMNDBxI0/edit?usp=sharing)
