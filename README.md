@@ -1,3 +1,4 @@
+<link href="logos/style.css" rel="stylesheet"></link>
 <h1 align="center">
     <a href="https://github.com/CSYClubIIITK/ClubVault">
         <img src="Logo.png" valign="middle" height="58" alt="CSY logo" />
@@ -44,7 +45,7 @@ Welcome to the Cybersecurity Club of Indian Institute of Information Technology.
 <table style="border-radius: 20px; border: none">
     <tr>
         <td><a href="https://www.linkedin.com/posts/csyclub-iiitkottayam_cybersecurity-craccon2024-iiitk-activity-7145813534449254400-W5o2?utm_source=share&utm_medium=member_desktop" style="display:flex;flex-direction: column;justify-content: center;align-items:center"><img style="border-radius: 20px" src="https://media.licdn.com/dms/image/D5622AQEXt6s8GtRy1A/feedshare-shrink_800/0/1703694707989?e=1710374400&v=beta&t=32WWSjaLEFGmR86fDHxKmVhJaHOxPkuoVuwfPMP1eoE" alt="Cracoon" width="100px"></a></td>
-        <td><a href="https://www.linkedin.com/posts/csyclub-iiitkottayam_iwcon23-iwcon-communitypartner-activity-7140961881959170048-TqoV?utm_source=share&utm_medium=member_desktop" style="display:flex;flex-direction: column;justify-content: center;align-items:center"><img style="border-radius: 20px" src="https://media.licdn.com/dms/image/D560BAQEKuZOcPnrZzA/company-logo_200_200/0/1683831356312/infosec_writeups_logo?e=1715212800&v=beta&t=YyQdJ7mO9t4h6YbT4iHfEfUM4Vh21gUNB6cdHJplzoU" alt="IWCON" width="100px"></a>
+        <td><a href="https://www.linkedin.com/posts/csyclub-iiitkottayam_iwcon23-iwcon-communitypartner-activity-7140961881959170048-TqoV?utm_source=share&utm_medium=member_desktop" style="display:flex;flex-direction: column;justify-content: center;align-items:center"><img style="border-radius: 20px" src="Logos/IWCON_logo.jpg" alt="IWCON" width="100px"></a>
         </td>
         <td><a href="https://devcomm.international/"><img style="border-radius: 20px" src="https://devcomm.international/static/media/DevcommLogo.219fdf70c675c94ce9ba.png?w=20" alt="Devcomm NSUT" width="100px"></a></td>
         <td><a href="https://www.linkedin.com/company/hackershideoutx/"><img style="border-radius: 20px" src="./logos/hideout.jpeg" alt="Hacker's Hideout" width="100px"></a></td>
