@@ -1,0 +1,11 @@
+img {
+    border-radius: 20px;
+    width: 100px;
+}
+
+table tr td a {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center
+}
