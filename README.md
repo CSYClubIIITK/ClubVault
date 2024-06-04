@@ -1,4 +1,4 @@
-<link href="logos/style.css" rel="stylesheet"></link>
+<link href="logos/styles.css" rel="stylesheet"></link>
 <h1 align="center">
     <a href="https://github.com/CSYClubIIITK/ClubVault">
         <img src="Logo.png" valign="middle" height="58" alt="CSY logo" />
@@ -78,12 +78,20 @@ Welcome to the Cybersecurity Club of Indian Institute of Information Technology.
 
 ## Social Media Handles
 
+<a href="https://www.linkedin.com/company/csyclub-iiitkottayam/"><img src="./logos/socials/linkedin.png" class="social"></a>
+<a href="https://instagram.com/csyclub_iiitkottayam?igshid=ZWIzMWE5ZmU3Zg=="><img src="./logos/socials/instagram.png" class="social"></a>
+<a href="https://discord.gg/ZbqsQRrdtx"><img src="./logos/socials/discord.jpg" class="social"></a>
+<a href="https://linktr.ee/csyclub_iiitk"><img src="./logos/socials/linktree.png" class="social"></a>
+<a href="https://chat.whatsapp.com/DXZ0WkgqWYXEYj5jtVaa8h"><img src="./logos/socials/whatsapp.png" class="social"></a>
+<a href="https://www.youtube.com/@CyberSecurityClub-IIITK"><img src="./logos/socials/youtube.png" class="social"></a>
+
+<!-- 
 - [<img src="./logos/socials/linkedin.png" class="social">](https://www.linkedin.com/company/csyclub-iiitkottayam/)
-- [<img src="./logos/socials/linkedin.png" class="social">](https://instagram.com/csyclub_iiitkottayam?igshid=ZWIzMWE5ZmU3Zg==)
-- [<img src="./logos/socials/linkedin.png" class="social">](https://discord.gg/ZbqsQRrdtx)
-- [<img src="./logos/socials/linkedin.png" class="social">](https://linktr.ee/csyclub_iiitk)
-- [<img src="./logos/socials/linkedin.png" class="social"> Community](https://chat.whatsapp.com/DXZ0WkgqWYXEYj5jtVaa8h)
-- [<img src="./logos/socials/linkedin.png" class="social">](https://www.youtube.com/@CyberSecurityClub-IIITK)
+- [<img src="./logos/socials/instagram.png" class="social">](https://instagram.com/csyclub_iiitkottayam?igshid=ZWIzMWE5ZmU3Zg==)
+- [<img src="./logos/socials/discord.png" class="social">](https://discord.gg/ZbqsQRrdtx)
+- [<img src="./logos/socials/linktree.png" class="social">](https://linktr.ee/csyclub_iiitk)
+- [<img src="./logos/socials/whatsapp.png" class="social">](https://chat.whatsapp.com/DXZ0WkgqWYXEYj5jtVaa8h)
+- [<img src="./logos/socials/youtube.png" class="social">](https://www.youtube.com/@CyberSecurityClub-IIITK) -->
 
 
 
