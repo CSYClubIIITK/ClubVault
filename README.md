@@ -1,4 +1,21 @@
-<style src="./logos/styles.css">
+<style>
+    img {
+        border-radius: 20px;
+        width: 100px;
+    }
+
+    .social {
+        border-radius: 999px;
+        width: 50px;
+        height: 50px;
+    }
+
+    table tr td a {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center
+    }
 </style>
 
 <h1 align="center">
