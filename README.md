@@ -78,12 +78,12 @@ Welcome to the Cybersecurity Club of Indian Institute of Information Technology.
 
 ## Social Media Handles
 
-- [Linkedin](https://www.linkedin.com/company/csyclub-iiitkottayam/)
-- [Instagram](https://instagram.com/csyclub_iiitkottayam?igshid=ZWIzMWE5ZmU3Zg==)
-- [Discord](https://discord.gg/ZbqsQRrdtx)
-- [Linktree](https://linktr.ee/csyclub_iiitk)
-- [Whatsapp Community](https://chat.whatsapp.com/DXZ0WkgqWYXEYj5jtVaa8h)
-- [Youtube](https://www.youtube.com/@CyberSecurityClub-IIITK)
+- [<img src="./logos/socials/linkedin.png" class="social">](https://www.linkedin.com/company/csyclub-iiitkottayam/)
+- [<img src="./logos/socials/linkedin.png" class="social">](https://instagram.com/csyclub_iiitkottayam?igshid=ZWIzMWE5ZmU3Zg==)
+- [<img src="./logos/socials/linkedin.png" class="social">](https://discord.gg/ZbqsQRrdtx)
+- [<img src="./logos/socials/linkedin.png" class="social">](https://linktr.ee/csyclub_iiitk)
+- [<img src="./logos/socials/linkedin.png" class="social"> Community](https://chat.whatsapp.com/DXZ0WkgqWYXEYj5jtVaa8h)
+- [<img src="./logos/socials/linkedin.png" class="social">](https://www.youtube.com/@CyberSecurityClub-IIITK)
 
 
 
