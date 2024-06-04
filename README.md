@@ -7,6 +7,10 @@
     </span>
 </h1>
 
+<div style="width: 100%;">
+  <img src="./Custom Stylings/Introduction.svg" style="width: 100%;" alt="Click to see the source">
+</div>
+
 ### Indian Institute of Information Technology Kottayam
 
 ## About Us
@@ -76,9 +80,19 @@ Welcome to the Cybersecurity Club of Indian Institute of Information Technology.
 </table>
 
 ## Social Media Handles
-<div style="width: 100%;">
-  <img src="animated.svg" style="width: 100%;" alt="Click to see the source">
-</div>
+
+<a href="https://www.linkedin.com/company/csyclub-iiitkottayam/"><img src="./logos/socials/linkedin.png" style="border-radius:999px;width:50px;height:50px;"></a>
+<a href="https://instagram.com/csyclub_iiitkottayam?igshid=ZWIzMWE5ZmU3Zg=="><img src="./logos/socials/instagram.png" style="border-radius:999px;width:50px;height:50px;"></a>
+<a href="https://discord.gg/ZbqsQRrdtx"><img src="./logos/socials/discord.jpg"  style="border-radius:999px;width:50px;height:50px;"></a>
+<a href="https://linktr.ee/csyclub_iiitk"><img src="./logos/socials/linktree.png"  style="border-radius:999px;
+width:50px;
+height:50px;"></a>
+<a href="https://chat.whatsapp.com/DXZ0WkgqWYXEYj5jtVaa8h"><img src="./logos/socials/whatsapp.png" style="border-radius:999px;
+width:50px;
+height:50px;"></a>
+<a href="https://www.youtube.com/@CyberSecurityClub-IIITK"><img src="./logos/socials/youtube.png"  style="border-radius:999px;
+width:50px;
+height:50px;"></a>
 
 ## Contact Us
 
