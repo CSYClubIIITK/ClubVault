@@ -1,4 +1,6 @@
-<link href="logos/styles.css" rel="stylesheet"></link>
+<style src="./logos/styles.css">
+</style>
+
 <h1 align="center">
     <a href="https://github.com/CSYClubIIITK/ClubVault">
         <img src="Logo.png" valign="middle" height="58" alt="CSY logo" />
