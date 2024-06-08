@@ -19,7 +19,7 @@ Welcome to the Cybersecurity Club of Indian Institute of Information Technology.
 
 - #### [Capture The Flag - Apoorv 2023](https://github.com/CSYClubIIITK/ClubVault/tree/main/Events/Apoorv%20Capture%20The%20Flag'23)
 - Introduction to Cyber Security - [Link](https://github.com/CSYClubIIITK/ClubVault/tree/main/Events/Introduction%20to%20Cyber%20Security)
-- Introduction to Web 3.0 and Smart Contracts - [Link](https://github.com/CSYClubIIITK/ClubVault/tree/main/Events/Introduction%20to%20Web%203.0%20and%20Smart%20Contracts)
+- Introduction to Web 3.0 and Smart Contracts [🔗](https://github.com/CSYClubIIITK/ClubVault/tree/main/Events/Introduction%20to%20Web%203.0%20and%20Smart%20Contracts)
 - Reimagining The Future of Drones - [Link](https://github.com/CSYClubIIITK/ClubVault/tree/main/Events/Reimagining%20the%20future%20of%20drones)
 - Open Source Cyber Security Event - EcoCrypt - [Link](https://github.com/CSYClubIIITK/ClubVault/tree/main/Events/EcoCrypt)
 - Advanced Cryptography Digital-Forensics - [Github Repo](https://github.com/CSYClubIIITK/Advanced-Cryptography-Digital-Forensics)
@@ -71,9 +71,13 @@ Welcome to the Cybersecurity Club of Indian Institute of Information Technology.
     </tr>
     <tr>
         <td><a href="https://www.linkedin.com/company/opseclio/?originalSubdomain=in"><img src="logos/Opseclio_logo.jpg" alt="OpenSeclio" width="100px"></a></td>
+        <td><a href="https://gen.xyz/"><img src="logos/xyx_logo.jpg" alt="OpenSeclio" width="100px"></a></td>
+        <td><a href="https://www.quillaudits.com/smart-contract-audit"><img src="logos/quillaudits_logo.jpg" alt="OpenSeclio" width="100px"></a></td>
     </tr>
     <tr>
         <td><center>OpenSeclio</center></td>
+        <td><center>.xyz </center></td>
+        <td><center>Quill Audits</center></td>
     </tr>
 </table>
 
