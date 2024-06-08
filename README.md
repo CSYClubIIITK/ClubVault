@@ -7,9 +7,7 @@
     </span>
 </h1>
 
-<div style="width: 100%;">
-  <img src="./logos/Custom Stylings/Introduction.svg" style="width: 100%;" alt="Click to see the source">
-</div>
+<img src="https://readme-typing-svg.herokuapp.com?vCenter=true&lines=Hey+There+!;Welcome+To+The+Github;Of+The+CyberSecurity+Club&width=310">
 
 ### Indian Institute of Information Technology Kottayam
 
@@ -19,7 +17,7 @@ Welcome to the Cybersecurity Club of Indian Institute of Information Technology.
 
 ## Club Activities
 
-- Capture The Flag - Apoorv 2023 [Link](https://github.com/CSYClubIIITK/ClubVault/tree/main/Events/Apoorv%20Capture%20The%20Flag'23)
+- #### [Capture The Flag - Apoorv 2023](https://github.com/CSYClubIIITK/ClubVault/tree/main/Events/Apoorv%20Capture%20The%20Flag'23)
 - Introduction to Cyber Security - [Link](https://github.com/CSYClubIIITK/ClubVault/tree/main/Events/Introduction%20to%20Cyber%20Security)
 - Introduction to Web 3.0 and Smart Contracts - [Link](https://github.com/CSYClubIIITK/ClubVault/tree/main/Events/Introduction%20to%20Web%203.0%20and%20Smart%20Contracts)
 - Reimagining The Future of Drones - [Link](https://github.com/CSYClubIIITK/ClubVault/tree/main/Events/Reimagining%20the%20future%20of%20drones)
