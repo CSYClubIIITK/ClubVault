@@ -7,10 +7,6 @@
     </span>
 </h1>
 
-<div style="width: 100%;">
-  <img src="./logos/Custom Stylings/Introduction.svg" style="width: 100%;" alt="Click to see the source">
-</div>
-
 ### Indian Institute of Information Technology Kottayam
 
 ## About Us
