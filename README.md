@@ -7,6 +7,10 @@
     </span>
 </h1>
 
+<div style="width: 100%;">
+  <img src="./logos/Custom Stylings/Introduction.svg" style="width: 100%;" alt="Click to see the source">
+</div>
+
 ### Indian Institute of Information Technology Kottayam
 
 ## About Us
@@ -43,11 +47,11 @@ Welcome to the Cybersecurity Club of Indian Institute of Information Technology.
 ## Collaborations 
 <table style="border-radius: 20px; border: none">
     <tr>
-        <td><a href="https://www.linkedin.com/posts/csyclub-iiitkottayam_cybersecurity-craccon2024-iiitk-activity-7145813534449254400-W5o2?utm_source=share&utm_medium=member_desktop" style="display:flex;flex-direction: column;justify-content: center;align-items:center"><img style="border-radius: 20px" src="https://media.licdn.com/dms/image/D5622AQEXt6s8GtRy1A/feedshare-shrink_800/0/1703694707989?e=1710374400&v=beta&t=32WWSjaLEFGmR86fDHxKmVhJaHOxPkuoVuwfPMP1eoE" alt="Cracoon" width="100px"></a></td>
-        <td><a href="https://www.linkedin.com/posts/csyclub-iiitkottayam_iwcon23-iwcon-communitypartner-activity-7140961881959170048-TqoV?utm_source=share&utm_medium=member_desktop" style="display:flex;flex-direction: column;justify-content: center;align-items:center"><img style="border-radius: 20px" src="https://media.licdn.com/dms/image/D560BAQEKuZOcPnrZzA/company-logo_200_200/0/1683831356312/infosec_writeups_logo?e=1715212800&v=beta&t=YyQdJ7mO9t4h6YbT4iHfEfUM4Vh21gUNB6cdHJplzoU" alt="IWCON" width="100px"></a>
+        <td><a href="https://www.linkedin.com/posts/csyclub-iiitkottayam_cybersecurity-craccon2024-iiitk-activity-7145813534449254400-W5o2?utm_source=share&utm_medium=member_desktop"><img src="logos/cracoon_logo.jpg" alt="Cracoon" width="100px"></a></td>
+        <td><a href="https://www.linkedin.com/posts/csyclub-iiitkottayam_iwcon23-iwcon-communitypartner-activity-7140961881959170048-TqoV?utm_source=share&utm_medium=member_desktop"><img style="border-radius: 20px" src="logos/IWCON_logo.jpg" alt="IWCON" width="100px"></a>
         </td>
-        <td><a href="https://devcomm.international/"><img style="border-radius: 20px" src="https://devcomm.international/static/media/DevcommLogo.219fdf70c675c94ce9ba.png?w=20" alt="Devcomm NSUT" width="100px"></a></td>
-        <td><a href="https://www.linkedin.com/company/hackershideoutx/"><img style="border-radius: 20px" src="./logos/hideout.jpeg" alt="Hacker's Hideout" width="100px"></a></td>
+        <td><a href="https://devcomm.international/"><img src="https://devcomm.international/static/media/DevcommLogo.219fdf70c675c94ce9ba.png?w=20" alt="Devcomm NSUT" width="100px"></a></td>
+        <td><a href="https://www.linkedin.com/company/hackershideoutx/"><img src="./logos/hideout.jpeg" alt="Hacker's Hideout" width="100px"></a></td>
     </tr>
     <tr>
         <td><center>Craccon'23</center></td>
@@ -56,10 +60,10 @@ Welcome to the Cybersecurity Club of Indian Institute of Information Technology.
         <td><center>Hacker's Hideout</center></td>
     </tr>
     <tr>
-        <td><a href="https://www.linkedin.com/posts/csyclub-iiitkottayam_iiitkottayam-cybersecurityclub-aspireforher-activity-7147090435385999360-feKj?utm_source=share&utm_medium=member_desktop"><img style="border-radius: 20px" src="https://aspireforher.com/wp-content/uploads/2021/08/Aspire-For-Her-logo-3.png" alt="Aspire for Her" width="100px"></a></td>
-        <td><a href="https://www.zcrypt.cloud/"><img style="border-radius: 20px" src="https://www.zcrypt.cloud/images-event/logo.svg" alt="Zcrypt" width="100px"></a></td>
-        <td><a href="https://www.linkedin.com/company/ieee-fcrit/?originalSubdomain=in"><img style="border-radius: 20px" src="https://media.licdn.com/dms/image/D4D0BAQE9qwkT4RNtMA/company-logo_200_200/0/1702558416271?e=1715212800&v=beta&t=6gr2D6GlRCodGlgVNrJj2Sk-nzDO_jJ5DXoVesY4AGQ" alt="IEEE FCRIT" width="100px"></a></td>
-        <td><a href="https://www.linkedin.com/company/hireinncoin/about/"><img style="border-radius: 20px" src="https://media.licdn.com/dms/image/D4D0BAQGUWfycaOWMKQ/company-logo_200_200/0/1699002981775?e=1715212800&v=beta&t=C-z33XTM1NdeuxAczNtCDnMsslSoDJDOGoSqQpZAPd8" alt="Hireinn" width="100px"></a></td>
+        <td><a href="https://www.linkedin.com/posts/csyclub-iiitkottayam_iiitkottayam-cybersecurityclub-aspireforher-activity-7147090435385999360-feKj?utm_source=share&utm_medium=member_desktop"><img src="https://aspireforher.com/wp-content/uploads/2021/08/Aspire-For-Her-logo-3.png" alt="Aspire for Her" width="100px"></a></td>
+        <td><a href="https://www.zcrypt.cloud/"><img src="https://www.zcrypt.cloud/images-event/logo.svg" alt="Zcrypt" width="100px"></a></td>
+        <td><a href="https://www.linkedin.com/company/ieee-fcrit/?originalSubdomain=in"><img src="logos/IEEE FCRIT_logo.jpg" alt="IEEE FCRIT" width="100px"></a></td>
+        <td><a href="https://www.linkedin.com/company/hireinncoin/about/"><img src="logos/HireInn_logo.jpg" alt="Hireinn" width="100px"></a></td>
     </tr>
     <tr>
         <td><center>Aspire for Her</center></td>
@@ -68,7 +72,7 @@ Welcome to the Cybersecurity Club of Indian Institute of Information Technology.
         <td><center>Hireinn</center></td>
     </tr>
     <tr>
-        <td><a href="https://www.linkedin.com/company/opseclio/?originalSubdomain=in"><img style="border-radius: 20px" src="https://media.licdn.com/dms/image/D4D0BAQGJ278mEQyZgg/company-logo_200_200/0/1697142789189?e=1715212800&v=beta&t=Ej5pYokmznnjX_0XLVXRcqsWaJCXisSmo6AhpKx9YwI" alt="OpenSeclio" width="100px"></a></td>
+        <td><a href="https://www.linkedin.com/company/opseclio/?originalSubdomain=in"><img src="logos/Opseclio_logo.jpg" alt="OpenSeclio" width="100px"></a></td>
     </tr>
     <tr>
         <td><center>OpenSeclio</center></td>
@@ -77,14 +81,12 @@ Welcome to the Cybersecurity Club of Indian Institute of Information Technology.
 
 ## Social Media Handles
 
-- [Linkedin](https://www.linkedin.com/company/csyclub-iiitkottayam/)
-- [Instagram](https://instagram.com/csyclub_iiitkottayam?igshid=ZWIzMWE5ZmU3Zg==)
-- [Discord](https://discord.gg/ZbqsQRrdtx)
-- [Linktree](https://linktr.ee/csyclub_iiitk)
-- [Whatsapp Community](https://chat.whatsapp.com/DXZ0WkgqWYXEYj5jtVaa8h)
-- [Youtube](https://www.youtube.com/@CyberSecurityClub-IIITK)
-
-
+<a href="https://www.linkedin.com/company/csyclub-iiitkottayam/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a>
+<a href="https://instagram.com/csyclub_iiitkottayam?igshid=ZWIzMWE5ZmU3Zg=="><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://discord.gg/ZbqsQRrdtx"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+<a href="https://linktr.ee/csyclub_iiitk"><img src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white"></a>
+<a href="https://chat.whatsapp.com/DXZ0WkgqWYXEYj5jtVaa8h"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+<a href="https://www.youtube.com/@CyberSecurityClub-IIITK"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></a>
 
 ## Contact Us
 
