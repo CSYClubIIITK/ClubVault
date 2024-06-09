@@ -41,6 +41,11 @@ Welcome to the Cybersecurity Club of Indian Institute of Information Technology.
 
 - Capture The Flag - Apoorv 2024 [Link](https://github.com/CSYClubIIITK/ClubVault/tree/main/Events/Apoorv%20Capture%20The%20Flag'24)
 
+## Projects
+- EcoCrypt - [Github Repo](https://github.com/CSYClubIIITK/ClubVault/tree/main/Events/EcoCrypt)
+- Malware Analysis Project - [Website](https://csyclub-iiitk.gitbook.io/map)
+- CTF Guide - [Website](https://csyclub-iiitk.gitbook.io/ctf-guide)
+
 ## Collaborations 
 <table style="border-radius: 20px; border: none">
     <tr>
