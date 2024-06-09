@@ -7,9 +7,9 @@
     </span>
 </h1>
 
-<img src="https://readme-typing-svg.herokuapp.com?vCenter=true&lines=Hey+There+!;Welcome+To+The+Github;Of+The+CyberSecurity+Club&width=310">
-
 ### Indian Institute of Information Technology Kottayam
+
+<img src="https://readme-typing-svg.herokuapp.com?vCenter=true&lines=Hey+There+!;Welcome+To+ClubVault&width=310">
 
 ## About Us
 
@@ -96,10 +96,7 @@ Welcome to the Cybersecurity Club of Indian Institute of Information Technology.
 
 ## Contact Us
 
-If you have any questions, feedback, or suggestions, please feel free to reach out to us on our social media handles.
-
-We look forward to seeing you in our club and working together to enhance cybersecurity knowledge and skills.
-
+If you have any questions, feedback, or suggestions, please feel free to reach out at csyclub@iiitkottayam.ac.in
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [hackers-hideout]: /logos/hideout.jpeg
