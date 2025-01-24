@@ -20,7 +20,7 @@ The cyber security club is delighted to announce “Cyber Week”, a week long e
 - [OS-INT](os-int)
 - [Networks & NMAP](networks-and-nmap)
 - ⁠[Exploitation tools](exploitation-tools)
-- ⁠[Breaking the Websites for Fun](breaking-the-websites-for-fun)
+- ⁠[Breaking the Websites for Fun](breaking-websites-for-fun-and-profit)
 - ⁠[Capture the Flag](capture-the-flag)
 
 Mark your calendars from the 8th of January till the 14th.</p>
