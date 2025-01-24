@@ -23,12 +23,12 @@
             </p>
         </div>
     </div>
-    
+
 Join the discord [Server](https://discord.com/invite/m8qrYCfY)
 
 Unstop Page: [Link](https://unstop.com/hackathons/capture-the-flag-apoorv-iiit-kottayam-653006)
 
-#### Cheeckout Challenges, writeups: [CTF](https://github.com/CSYClubIIITK/ApoorvCTF-23-Writeups)
+#### Checkout Challenges, writeups: [CTF](https://github.com/CSYClubIIITK/CTF-Writeups/tree/bc9559df1ed960ba713eb5b5c134a75749457580/ApoorvCTF-23-Writeups)
 </section>
 </body>
 

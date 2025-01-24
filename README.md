@@ -17,36 +17,36 @@ Welcome to the Cybersecurity Club of Indian Institute of Information Technology.
 
 ## Club Activities
 
-- Introduction to Cyber Security - [Link](https://github.com/CSYClubIIITK/ClubVault/tree/main/Events/Introduction%20to%20Cyber%20Security)
-- Reimagining The Future of Drones - [Link](https://github.com/CSYClubIIITK/ClubVault/tree/main/Events/Reimagining%20the%20future%20of%20drones)
-- Capture The Flag - Apoorv 2023 - [Link](https://github.com/CSYClubIIITK/ClubVault/tree/main/Events/Apoorv%20Capture%20The%20Flag'23)
-- Introduction to Web 3.0 and Smart Contracts - [Link](https://github.com/CSYClubIIITK/ClubVault/tree/main/Events/Introduction%20to%20Web%203.0%20and%20Smart%20Contracts)
-- Open Source Cyber Security Event - EcoCrypt - [Link](https://github.com/CSYClubIIITK/ClubVault/tree/main/Events/EcoCrypt)
-- Advanced Cryptography Digital-Forensics - [Github Repo](https://github.com/CSYClubIIITK/Advanced-Cryptography-Digital-Forensics)
-- Cyber Security Club Introductory Session - [Link](https://github.com/CSYClubIIITK/ClubVault/tree/main/Events/Cyber%20Security%20Club%20Introductory%20Session)
-- Hacktoberfest 2023 Intro Session - [Link](https://github.com/CSYClubIIITK/ClubVault/tree/main/Events/Hacktoberfest'23%20Intro%20Session)
-- Hacktoberfest 2023 Git and Github Decoded- [Link](https://github.com/CSYClubIIITK/ClubVault/tree/main/Events/Hacktoberfest'23%20Git%20and%20Github%20Decoded)
-- Hacktoberfest 2023 Hands On: Live Open Source Contribution- [Link](https://github.com/CSYClubIIITK/ClubVault/tree/main/Events/Hacktoberfest'23%20Hands%20On%20Live%20Open%20Source%20Contribution)
-- LinkedIn Premium by [Aspire for Her](https://www.linkedin.com/posts/csyclub-iiitkottayam_iiitkottayam-cybersecurityclub-aspireforher-activity-7147090435385999360-feKj?utm_source=share&utm_medium=member_android)
-- Informative weekly series on [Instagram](https://github.com/CSYClubIIITK/ClubVault/tree/main/Events/Weekly%20Series)
-
-- Cyber Week Jan'23
-    1. [OS-INT](Events/Cyber%20Week/os-int)
-    2. [Networks & NMAP](Events/Cyber%20Week/networks-and-nmap)
-    3. ⁠[Exploitation tools](Events/Cyber%20Week/exploitation-tools)
-    4. ⁠[Breaking the Websites for Fun](Events/Cyber%20Week/breaking-the-websites-for-fun)
-    5. ⁠[Capture the Flag](Events/Cyber%20Week/capture-the-flag)
-    6. [Security from a Fintech Perspective](Events/Cyber%20Week/security-from-a-fintech-perspective)
-    7. ⁠[ZCrypt - CTF](Events/Cyber%20Week/Zcrypt)
-
-- Capture The Flag - Apoorv 2024 [Link](https://github.com/CSYClubIIITK/ClubVault/tree/main/Events/Apoorv%20Capture%20The%20Flag'24)
+- 2023:
+    - Introduction to Cyber Security - [Link](Events/2023/Introduction%20to%20Cyber%20Security)
+    - Reimagining The Future of Drones - [Link](Events/2023/Reimagining%20the%20future%20of%20drones)
+    - Capture The Flag - Apoorv 2023 - [Link](Events/2023/Apoorv%20Capture%20The%20Flag'23)
+    - Introduction to Web 3.0 and Smart Contracts - [Link](Events/2023/Introduction%20to%20Web%203.0%20and%20Smart%20Contracts)
+    - Open Source Cyber Security Event - EcoCrypt - [Link](Events/2023/EcoCrypt)
+    - Advanced Cryptography Digital-Forensics - [Github Repo](Events/2023/Advanced-Cryptography-Digital-Forensics)
+    - Cyber Security Club Introductory Session - [Link](Events/2023/Cyber%20Security%20Club%20Introductory%20Session)
+    - Hacktoberfest 2023 Intro Session - [Link](Events/2023/Hacktoberfest'23%20Intro%20Session)
+    - Hacktoberfest 2023 Git and Github Decoded- [Link](Events/2023/Hacktoberfest'23%20Git%20and%20Github%20Decoded)
+    - Hacktoberfest 2023 Hands On: Live Open Source Contribution- [Link](Events/2023/Hacktoberfest'23%20Hands%20On%20Live%20Open%20Source%20Contribution)
+    - LinkedIn Premium by [Aspire for Her](https://www.linkedin.com/posts/csyclub-iiitkottayam_iiitkottayam-cybersecurityclub-aspireforher-activity-7147090435385999360-feKj?utm_source=share&utm_medium=member_android)
+    - Informative weekly series on [Instagram](https://github.com/CSYClubIIITK/ClubVault/tree/main/Events/Weekly%20Series)
+- 2024:
+    - Cyber Week Jan'24
+        1. [OS-INT](Events/2024/Cyber%20Week/os-int)
+        2. [Networks & NMAP](Events/2024/Cyber%20Week/networks-and-nmap)
+        3. ⁠[Exploitation tools](Events/2024/Cyber%20Week/exploitation-tools)
+        4. ⁠[Breaking websites for fun and profit](Events/2024/Cyber%20Week/breaking-websites-for-fun-and-profit)
+        5. ⁠[Capture the Flag](Events/2024/Cyber%20Week/capture-the-flag)
+        6. [Security from a Fintech Perspective](Events/2024/Cyber%20Week/security-from-a-fintech-perspective)
+        7. ⁠[ZCrypt - CTF](Events/2024/Cyber%20Week/Zcrypt)
+    - Capture The Flag - Apoorv 2024 [Link](Events/2024/Apoorv%20Capture%20The%20Flag'24)
 
 ## Projects
 - EcoCrypt - [Github Repo](https://github.com/CSYClubIIITK/ClubVault/tree/main/Events/EcoCrypt)
 - Malware Analysis Project - [Website](https://csyclub-iiitk.gitbook.io/map)
 - CTF Guide - [Website](https://csyclub-iiitk.gitbook.io/ctf-guide)
 
-## Collaborations 
+## Collaborations
 <table style="border-radius: 20px; border: none">
     <tr>
         <td><a href="https://www.linkedin.com/posts/csyclub-iiitkottayam_cybersecurity-craccon2024-iiitk-activity-7145813534449254400-W5o2?utm_source=share&utm_medium=member_desktop"><img src="logos/cracoon_logo.jpg" alt="Cracoon" width="100px"></a></td>
